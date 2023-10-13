@@ -1,5 +1,5 @@
 # bmi_calculator
-
+# Make BMI Calculator with two different design also converter for hight from feet and inches to centi meter
 A new Flutter project.
 
 ## Getting Started
